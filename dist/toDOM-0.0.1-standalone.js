@@ -418,9 +418,9 @@ define("bower_components/almond/almond", function(){});
  * see: http://github.com/cagosta/toDOM for details
  */
 
-define( 'toDOM/toDOM',[],function toDOM() {
+define( 'toDOM/toDOM',[],function () {
 
-    return function( tree, scope ) {
+    return function toDOM( tree, scope ) {
 
         var obj = tree,
             k, l, el, attr, childEl, p, q, evt, style, children
