@@ -203,9 +203,9 @@ Check it for task-related references such as build, deploy etc ..
 
 
 ### Authors 
-*[Cyril Agosta](https://github.com/cagosta)
-*[Sam Ton That](https://github.com/KspR)
-*[Pierre Cole](https://github.com/piercus)
+* [Cyril Agosta](https://github.com/cagosta)
+* [Sam Ton That](https://github.com/KspR)
+* [Pierre Cole](https://github.com/piercus)
 
 
 ## License ##
