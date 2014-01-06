@@ -2,7 +2,7 @@ module.exports = function( grunt ) {
 
 
     grunt.config.set( 'exec.bower_register', {
-        command: 'bower register toDOM git://github.com/cagosta/toDOM'
+        command: 'bower register SeedHq git://github.com/cagosta/SeedHq'
     } )
 
     grunt.config.set( 'exec.npm_publish', {
