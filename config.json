@@ -21,5 +21,30 @@
     },
     "cachedDeps": false,
     "moduleName": "toDOM",
-    "isFrontEndApp": true
+    "isFrontEndApp": true,
+    "server": {
+        "port": 5000
+    },
+    "test": {
+        "saucelabs": {
+            "browsers": {
+                "default": [
+                    {
+                        "browserName": "opera"
+                    }
+                ],
+                "ies": [
+                    {
+                        "browserName": "internet explorer",
+                        "platform": "VISTA",
+                        "version": "9"
+                    }, {
+                        "browserName": "internet explorer",
+                        "platform": "XP",
+                        "version": "8"
+                    }
+                ]
+            }
+        }
+    }
 }
