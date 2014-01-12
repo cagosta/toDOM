@@ -101,6 +101,9 @@ myView.helloEl.innerHTML // 'hello!'
 * Default tag is 'div' 
 
 
+## Demo ##
+See [cagosta.github.io/toDOM](http://cagosta.github.io/toDOM) 
+
 ## Install ##
 
 toDOM is coded as [AMD module](http://requirejs.org/docs/whyamd.html) but can be installed with npm, bower or old-fashioned src=".min.js".
