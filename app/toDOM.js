@@ -54,7 +54,6 @@ define( function () {
             children = obj.children
             for ( k = 0, l = children.length; k < l; k++ ) {
                 childEl = toDOM( children[ k ], scope )
-                console.log('scope', scope, childEl, el )
                 el.appendChild( childEl )
             }
         }
